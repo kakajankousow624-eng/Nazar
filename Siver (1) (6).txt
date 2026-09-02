@@ -1,5 +1,212 @@
-vless://d28452cd-4720-4933-ba46-5a0e708d9728@5.101.219.14:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=pro7.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Taze%201%F0%9F%87%AB%F0%9F%87%AE
-vless://d28452cd-4720-4933-ba46-5a0e708d9728@13.33.141.25:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d13k1evawio90x.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d13k1evawio90x.cloudfront.net#Taze%202%F0%9F%87%B8%F0%9F%87%AA
-vless://d28452cd-4720-4933-ba46-5a0e708d9728@195.123.237.49:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=nt.vip97.cfd&fp=chrome&type=ws&allowInsecure=0&sni=nt.vip97.cfd#Taze%203%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://eceab5fbeb22a992489c2fb1ac0d8179413ee22fad4bbb0c@136.148.67.100:444?security=tls&insecure=0&sni=finland.aoctm.online#Taze%204
-trojan://EQEQyEKiYun5TLxVQKFNpg@136.148.67.100:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+vless://d28452cd-4720-4933-ba46-5a0e708d9728@5.101.219.14:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=pro7.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%201%F0%9F%87%AB%F0%9F%87%AE
+trojan://EQEQyEKiYun5TLxVQKFNpg@136.148.67.238:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+vless://0dea82cd-a030-4c11-bccd-f3c0be845297@193.34.213.72:443?security=reality&encryption=none&pbk=c_9pNYSprG0wT-8Dz68poWfpFCktGVKIrX_EVG3J4wk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=f49814084db8f3a6#%F0%9F%87%B5%F0%9F%87%B1%20Kakajan%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiREFvQWRadXd5RXJrZ0pGdHB3cmVn@43.157.103.177:24#%F0%9F%87%A9%F0%9F%87%AA%20Kakajan%203
+vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@14.137.238.140:10000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Kakajan%204
+vless://a53618c9-1301-4031-b9aa-d020a47c3565@199.232.86.46:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=oh1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=accounts.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Kakajan%205
+vless://0dea82cd-a030-4c11-bccd-f3c0be845297@89.127.233.204:443?security=reality&encryption=none&pbk=rcVky9axRdk20BsjA4myAKcjlAAFNQFLUTMrZNqRMis&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=663c7a4f406dd6f8#%F0%9F%87%AE%F0%9F%87%B8%20Kakajan%206
+vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Kakajan%207
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "tag": "proxy",
+      "settings": {
+        "vnext": [
+          {
+            "address": "3.174.113.27",
+            "port": 443,
+            "users": [
+              {
+                "id": "84ea4a4f-e459-4882-aca8-6e1cb23d7c5b",
+                "encryption": "none",
+                "flow": "",
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "tls",
+        "wsSettings": {
+          "path": "/",
+          "headers": {
+            "Host": "dp8fppjmkj7tj.cloudfront.net"
+          }
+        },
+        "tlsSettings": {
+          "serverName": "tye.makeout.online",
+          "fingerprint": "chrome",
+          "alpn": [
+            "http/1.1"
+          ]
+        }
+      }
+    },
+    {
+      "protocol": "freedom",
+      "tag": "DIRECT"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "BLOCK"
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": []
+  },
+  "remarks": "🇳🇱 CloudFront ☁️",
+  "meta": {
+    "serverDescription": "𝗠𝗮𝗿𝘇𝗲𝘅 ✵"
+  }
+}
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "hysteria",
+      "tag": "proxy",
+      "settings": {
+        "version": 2,
+        "address": "51.210.129.116",
+        "port": 100
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.google.com",
+          "fingerprint": "firefox",
+          "alpn": [
+            "h3"
+          ],
+          "pinnedPeerCertSha256": "16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7"
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "FRY6EQFPfNLaIpnsRoUCKJIFXGOXM97R"
+        }
+      }
+    },
+    {
+      "protocol": "freedom",
+      "tag": "DIRECT"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "BLOCK"
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": []
+  },
+  "remarks": "🇬🇧 London - Premium",
+  "meta": {
+    "serverDescription": "𝗠𝗮𝗿𝘇𝗲𝘅 ✵"
+  }
+}
