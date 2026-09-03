@@ -1,11 +1,20 @@
-vless://d28452cd-4720-4933-ba46-5a0e708d9728@5.101.219.14:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=pro7.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%201%F0%9F%87%AB%F0%9F%87%AE
-trojan://EQEQyEKiYun5TLxVQKFNpg@136.148.67.238:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
-vless://0dea82cd-a030-4c11-bccd-f3c0be845297@193.34.213.72:443?security=reality&encryption=none&pbk=c_9pNYSprG0wT-8Dz68poWfpFCktGVKIrX_EVG3J4wk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=f49814084db8f3a6#%F0%9F%87%B5%F0%9F%87%B1%20Kakajan%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiREFvQWRadXd5RXJrZ0pGdHB3cmVn@43.157.103.177:24#%F0%9F%87%A9%F0%9F%87%AA%20Kakajan%203
-vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@14.137.238.140:10000?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20Kakajan%204
-vless://a53618c9-1301-4031-b9aa-d020a47c3565@199.232.86.46:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=oh1.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=accounts.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Kakajan%205
-vless://0dea82cd-a030-4c11-bccd-f3c0be845297@89.127.233.204:443?security=reality&encryption=none&pbk=rcVky9axRdk20BsjA4myAKcjlAAFNQFLUTMrZNqRMis&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=app.prostocalc.com&sid=663c7a4f406dd6f8#%F0%9F%87%AE%F0%9F%87%B8%20Kakajan%206
-vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Kakajan%207
+vless://d28452cd-4720-4933-ba46-5a0e708d9728@82.158.113.11:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=ger-remnn.vip90.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%20%F0%9F%87%A9%F0%9F%87%AA
+vless://d28452cd-4720-4933-ba46-5a0e708d9728@13.33.141.61:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d34fyr8oznamah.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d34fyr8oznamah.cloudfront.net#Kakajan%201%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiREFvQWRadXd5RXJrZ0pGdHB3cmVn@43.157.103.177:24#%F0%9F%87%A9%F0%9F%87%AA%2BKakajan%2B3
+vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@14.137.238.140:10000?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%2BKakajan%2B4
+hysteria2://90414ef1bd10673bd22f973583dd4826@45.92.219.130:666?security=tls&insecure=0&sni=turkey.aoctm.online#%F0%9F%87%B9%F0%9F%87%B7Kakajan%205
+trojan://EQEQyEKiYun5TLxVQKFNpg@45.92.219.130:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+vless://b03f2ecd-3e68-4110-a2fd-d308ce20ae49@199.232.86.46:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=goldrone-rextare.net&fp=chrome&type=xhttp&allowInsecure=1&sni=accounts.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Kakajan%206
+vless://c75dbf5b-cc63-45c6-9f83-6f50c1305076@102.130.69.141:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=1&host=gcoree.nahozbugin.online&fp=chrome&type=xhttp&allowInsecure=1&sni=worldoftanks.com#%F0%9F%87%A6%F0%9F%87%B4%20Kakajan%207
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkelN4N1c2d0JITzFWUklfR3g0Y2pWTTBuTjQxbThxeA%3D%3D@81.90.21.73:113#%F0%9F%87%B8%F0%9F%87%AA%20Kakajan%208
+vless://c75dbf5b-cc63-45c6-9f83-6f50c1305076@40.66.41.123:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Kakajan%209
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkelN4N1c2d0JITzFWUklfR3g0Y2pWTTBuTjQxbThxeA%3D%3D@81.90.21.73:114#%F0%9F%87%B8%F0%9F%87%AA%20Kakajan%2010
+vless://500f92c4-3473-4792-b5de-95e237162fc5@3.174.113.27:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=d1nndxqfsgc5oy.cloudfront.net&fp=chrome&type=ws&allowInsecure=1&sni=fzt.makeout.online#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%2011
+vless://17da350f-760d-4373-8f51-31289cf2819d@68.221.225.147:2041?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Kakajan%2012
+vless://59ab747d-b71e-4d5e-ab3d-6031e38ebc44@199.232.86.47:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=goldrone-rextare.net&fp=chrome&type=xhttp&allowInsecure=1&sni=accounts.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Kakajan%2013
+vless://03420ea4-83a8-414b-810b-2ebea04eee92@51.210.129.143:601?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Kakajan%2014
+vless://03420ea4-83a8-414b-810b-2ebea04eee92@51.210.129.143:101?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20Kakajan%2015
+vless://03420ea4-83a8-414b-810b-2ebea04eee92@151.101.69.193:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=tr-marzexx-fs.com&fp=chrome&type=xhttp&allowInsecure=1&sni=accounts.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20Kakajan%2016
 {
   "log": {
     "access": "",
@@ -78,11 +87,11 @@ vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289?security=none&en
         "wsSettings": {
           "path": "/",
           "headers": {
-            "Host": "dp8fppjmkj7tj.cloudfront.net"
+            "Host": "d1rsa83s91s3nh.cloudfront.net"
           }
         },
         "tlsSettings": {
-          "serverName": "tye.makeout.online",
+          "serverName": "cft.makeout.online",
           "fingerprint": "chrome",
           "alpn": [
             "http/1.1"
@@ -109,7 +118,107 @@ vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289?security=none&en
     "domainStrategy": "AsIs",
     "rules": []
   },
-  "remarks": "🇳🇱 CloudFront ☁️",
+  "remarks": "🇸🇪 CloudFront ☁️",
+  "meta": {
+    "serverDescription": "𝗠𝗮𝗿𝘇𝗲𝘅 ✵"
+  }
+}
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "tag": "proxy",
+      "settings": {
+        "vnext": [
+          {
+            "address": "45.144.221.142",
+            "port": 775,
+            "users": [
+              {
+                "id": "84ea4a4f-e459-4882-aca8-6e1cb23d7c5b",
+                "encryption": "none",
+                "flow": "",
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "none",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      }
+    },
+    {
+      "protocol": "freedom",
+      "tag": "DIRECT"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "BLOCK"
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": []
+  },
+  "remarks": "🇱🇻 Riga - Stable 🎮",
   "meta": {
     "serverDescription": "𝗠𝗮𝗿𝘇𝗲𝘅 ✵"
   }
@@ -166,8 +275,8 @@ vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289?security=none&en
       "tag": "proxy",
       "settings": {
         "version": 2,
-        "address": "51.210.129.116",
-        "port": 100
+        "address": "51.210.129.143",
+        "port": 600
       },
       "streamSettings": {
         "network": "hysteria",
@@ -205,7 +314,210 @@ vless://9a913f1c-28b3-4d0b-aa77-698302252ab7@78.17.190.94:53289?security=none&en
     "domainStrategy": "AsIs",
     "rules": []
   },
-  "remarks": "🇬🇧 London - Premium",
+  "remarks": "🇸🇪 Stockholm - Premium",
+  "meta": {
+    "serverDescription": "𝗠𝗮𝗿𝘇𝗲𝘅 ✵"
+  }
+}
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "hysteria",
+      "tag": "proxy",
+      "settings": {
+        "version": 2,
+        "address": "45.144.221.142",
+        "port": 995
+      },
+      "streamSettings": {
+        "network": "hysteria",
+        "security": "tls",
+        "tlsSettings": {
+          "serverName": "www.google.com",
+          "fingerprint": "firefox",
+          "alpn": [
+            "h3"
+          ],
+          "pinnedPeerCertSha256": "16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7"
+        },
+        "hysteriaSettings": {
+          "version": 2,
+          "auth": "FRY6EQFPfNLaIpnsRoUCKJIFXGOXM97R"
+        }
+      }
+    },
+    {
+      "protocol": "freedom",
+      "tag": "DIRECT"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "BLOCK"
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": []
+  },
+  "remarks": "🇷🇺 Oýunlar Üçin - Premium 🎮",
+  "meta": {
+    "serverDescription": "𝗠𝗮𝗿𝘇𝗲𝘅 ✵"
+  }
+}
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      },
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "allowTransparent": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "vless",
+      "tag": "proxy",
+      "settings": {
+        "vnext": [
+          {
+            "address": "151.101.69.193",
+            "port": 443,
+            "users": [
+              {
+                "id": "84ea4a4f-e459-4882-aca8-6e1cb23d7c5b",
+                "encryption": "none",
+                "flow": "",
+                "level": 0
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "security": "tls",
+        "xhttpSettings": {
+          "path": "/",
+          "host": "tr-marzexx-fs.com",
+          "mode": "packet-up"
+        },
+        "tlsSettings": {
+          "serverName": "accounts.fastly.com",
+          "fingerprint": "chrome",
+          "alpn": [
+            "h3"
+          ]
+        }
+      }
+    },
+    {
+      "protocol": "freedom",
+      "tag": "DIRECT"
+    },
+    {
+      "protocol": "blackhole",
+      "tag": "BLOCK"
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1",
+      "8.8.8.8"
+    ]
+  },
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": []
+  },
+  "remarks": "Fastly 🇫🇮- Reserve 🌐",
   "meta": {
     "serverDescription": "𝗠𝗮𝗿𝘇𝗲𝘅 ✵"
   }
