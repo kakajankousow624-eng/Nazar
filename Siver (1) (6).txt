@@ -5,3 +5,8 @@ hysteria2://90414ef1bd10673bd22f973583dd4826@212.80.221.34:666?security=tls&inse
 trojan://EQEQyEKiYun5TLxVQKFNpg@212.80.221.34:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
 hysteria2://0y3rsPA7Qyyn69Q3K37eonNVCu5nWyhT@51.89.5.239:600?security=tls&insecure=0&pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7&sni=www.google.com#%F0%9F%87%AB%F0%9F%87%B7%20Kakajan%205
 vless://554430f1-d814-4a21-93d2-46400177333f@51.89.5.239:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Kakajan%206
+vless://d28452cd-4720-4933-ba46-5a0e708d9728@3.164.59.67:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d2plglnh3w6dlt.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d2plglnh3w6dlt.cloudfront.net#New%201%F0%9F%87%AB%F0%9F%87%AE
+hysteria2://6c23bfdc2ad74327675af65bb233c054@107.191.42.171:2020?security=tls&insecure=0&sni=youtube.aoctm.online#%F0%9F%87%B0%F0%9F%87%AENew%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ%3D%3D@162.217.249.224:1080#%F0%9F%87%A9%F0%9F%87%AA%20ss%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ%3D%3D@45.67.136.129:300#%F0%9F%87%AC%F0%9F%87%A7%20Ss%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ%3D%3D@45.67.136.149:600#%F0%9F%87%B7%F0%9F%87%BA%20Ss%203
