@@ -1,6 +1,2 @@
-hysteria2://6c23bfdc2ad74327675af65bb233c054@107.191.42.171:2020?security=tls&insecure=0&sni=youtube.aoctm.online#%F0%9F%87%B0%F0%9F%87%AEKakajan1
-vless://554430f1-d814-4a21-93d2-46400177333f@151.101.108.222:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=tr-marzexx-fs.com&fp=chrome&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%F0%9F%87%AC%F0%9F%87%A7%20Kakajan%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ%3D%3D@171.22.129.71:1080#%F0%9F%87%B7%F0%9F%87%BA%20Kakajan%203
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ%3D%3D@162.217.249.224:400#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%204
-vless://554430f1-d814-4a21-93d2-46400177333f@162.217.249.224:203?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Kakajan%205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYjlsN2Rra1AyUFRmOWdad3RNNDhLR01YZVByX0xGdQ==@162.217.249.224:1080#%F0%9F%87%A9%F0%9F%87%AA+ss+1
+hysteria2://03d22bf39fd53e78b7320b61fa61bfa7@45.67.136.125:1010?security=tls&insecure=0&sni=france.aoctm.online#%F0%9F%87%AB%F0%9F%87%B7Kakajan%201
+trojan://EQEQyEKiYun5TLxVQKFNpg@45.67.136.125:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
