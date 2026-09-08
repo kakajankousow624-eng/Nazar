@@ -16,3 +16,6 @@ vless://2f0699a1-082f-4a1a-98a6-3cb5d44dc73c@82.158.113.62:443?mode=packet-up&pa
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bFJDeEwyWVdXeVdVZDlVaG5FZzVRNnVyMFI4TzNvcQ%3D%3D@162.217.249.96:500#%F0%9F%87%AB%F0%9F%87%B7%20Kakajan%207
 vless://4186b5f2-7cb7-4800-99ad-11ee8f36e92f@162.217.249.96:403?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%208
 trojan://EQEQyEKiYun5TLxVQKFNpg@45.92.219.190:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+vless://97eb72d4-ef56-4659-a0fe-ff6f43680099@82.158.113.62:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=lon-remn-2.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%209%F0%9F%87%A9%F0%9F%87%AA
+vless://97eb72d4-ef56-4659-a0fe-ff6f43680099@3.164.59.56:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d2plglnh3w6dlt.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d2plglnh3w6dlt.cloudfront.net#Kakajan%2010%F0%9F%87%AB%F0%9F%87%AE
+vless://97eb72d4-ef56-4659-a0fe-ff6f43680099@195.123.218.191:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fs.vip98.cfd&fp=chrome&type=ws&allowInsecure=0&sni=fs.vip98.cfd#Kakajan%2011%F0%9F%87%A8%F0%9F%87%AD
