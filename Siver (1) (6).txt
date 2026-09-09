@@ -1,5 +1,5 @@
-hysteria2://90414ef1bd10673bd22f973583dd4826@45.92.219.231:666?security=tls&insecure=0&sni=turkey.aoctm.online#%F0%9F%87%B9%F0%9F%87%B7Kakajan%201
-hysteria2://6c23bfdc2ad74327675af65bb233c054@45.92.219.231:2020?security=tls&insecure=0&sni=youtube.aoctm.online#%F0%9F%87%B0%F0%9F%87%AEKakajan%202
-vless://4186b5f2-7cb7-4800-99ad-11ee8f36e92f@151.101.71.139:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=tr-marzexx-fs.com&fp=chrome&type=xhttp&allowInsecure=0&sni=accounts.fastly.com#%F0%9F%87%AC%F0%9F%87%A7%20Kakajan%203
-hysteria2://lxsatCMMCYQIH-ZenXoz_NmsmHrb-8Jw@185.206.168.149:201?security=tls&insecure=0&pinSHA256=16DFB75641DBD1075D08B839E831F6FD6A9335517BD1C0597DED364CE87A2DB7&sni=www.google.com#%F0%9F%87%A9%F0%9F%87%AA%20Kakajan%204
-vless://4186b5f2-7cb7-4800-99ad-11ee8f36e92f@108.156.35.48:443?path=%2F&security=tls&fragment=3-3%2C0-1%2Ctlshello&alpn=http%2F1.1&encryption=none&insecure=0&host=diz473ibcfkh8.cloudfront.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.cft-fr.nq1mpppl.tech#%F0%9F%87%AB%F0%9F%87%B7%20Kakajan%205
+vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@82.158.113.62:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=lon-remn-2.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%201%F0%9F%87%A9%F0%9F%87%AA
+vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@3.164.59.39:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d1rldflyose1jy.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d1rldflyose1jy.cloudfront.net#Kakajan%202%F0%9F%87%B8%F0%9F%87%AA
+vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@195.123.219.99:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fs.vip98.cfd&fp=chrome&type=ws&allowInsecure=0&sni=fs.vip98.cfd#Kakajan%203%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://eceab5fbeb22a992489c2fb1ac0d8179413ee22fad4bbb0c@45.92.219.231:444?security=tls&insecure=0&sni=finland.aoctm.online#%F0%9F%87%AB%F0%9F%87%AEKakajan%204
+trojan://EQEQyEKiYun5TLxVQKFNpg@45.92.219.231:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
