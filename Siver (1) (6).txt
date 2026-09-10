@@ -1,10 +1,3 @@
-vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@82.158.113.62:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=fin-rem-2.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%201%F0%9F%87%AB%F0%9F%87%AE
-vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@3.164.59.41:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d2plglnh3w6dlt.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d2plglnh3w6dlt.cloudfront.net#Kakajan%202%F0%9F%87%AB%F0%9F%87%AE
-vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@195.123.221.76:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fs.vip98.cfd&fp=chrome&type=ws&allowInsecure=0&sni=fs.vip98.cfd#Kakajan%203%F0%9F%87%A8%F0%9F%87%AD
-hysteria2://eceab5fbeb22a992489c2fb1ac0d8179413ee22fad4bbb0c@162.217.249.211:444?security=tls&insecure=0&sni=finland.aoctm.online#%F0%9F%87%AB%F0%9F%87%AEKakajan%204
-trojan://EQEQyEKiYun5TLxVQKFNpg@162.217.249.211:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
-vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@82.158.113.62:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=fin-rem-2.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%201%F0%9F%87%AB%F0%9F%87%AE
-vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@3.164.59.41:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d2plglnh3w6dlt.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d2plglnh3w6dlt.cloudfront.net#Kakajan%202%F0%9F%87%AB%F0%9F%87%AE
-vless://00525cae-8c9c-4de9-8ebc-c50a0b15b660@195.123.221.76:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fs.vip98.cfd&fp=chrome&type=ws&allowInsecure=0&sni=fs.vip98.cfd#Kakajan%203%F0%9F%87%A8%F0%9F%87%AD
-hysteria2://eceab5fbeb22a992489c2fb1ac0d8179413ee22fad4bbb0c@162.217.249.211:444?security=tls&insecure=0&sni=finland.aoctm.online#%F0%9F%87%AB%F0%9F%87%AEKakajan%204
-trojan://EQEQyEKiYun5TLxVQKFNpg@162.217.249.211:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+hysteria2://03d22bf39fd53e78b7320b61fa61bfa7@208.167.242.90:1010?security=tls&insecure=0&sni=france.aoctm.online#%F0%9F%87%AB%F0%9F%87%B7Kakajan%201
+hysteria2://90414ef1bd10673bd22f973583dd4826@208.167.242.90:666?security=tls&insecure=0&sni=turkey.aoctm.online#%F0%9F%87%B9%F0%9F%87%B7Kakajan%202
+trojan://EQEQyEKiYun5TLxVQKFNpg@208.167.242.90:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
