@@ -1,3 +1,6 @@
 hysteria2://03d22bf39fd53e78b7320b61fa61bfa7@208.167.242.90:1010?security=tls&insecure=0&sni=france.aoctm.online#%F0%9F%87%AB%F0%9F%87%B7Kakajan%201
 hysteria2://90414ef1bd10673bd22f973583dd4826@208.167.242.90:666?security=tls&insecure=0&sni=turkey.aoctm.online#%F0%9F%87%B9%F0%9F%87%B7Kakajan%202
 trojan://EQEQyEKiYun5TLxVQKFNpg@208.167.242.90:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+vless://2e2b84f5-61b1-48ea-8832-d1a8cdb63f69@82.158.113.62:443?mode=packet-up&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=lon-remn-2.vip94.cfd&fp=chrome&type=xhttp&allowInsecure=0&sni=worldoftanks.com#Kakajan%201%F0%9F%87%A9%F0%9F%87%AA
+vless://2e2b84f5-61b1-48ea-8832-d1a8cdb63f69@3.164.59.41:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d1rldflyose1jy.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d1rldflyose1jy.cloudfront.net#Kakajan%202%F0%9F%87%B8%F0%9F%87%AA
+vless://2e2b84f5-61b1-48ea-8832-d1a8cdb63f69@195.123.221.76:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=pol.vip98.cfd&fp=chrome&type=ws&allowInsecure=0&sni=pol.vip98.cfd#Kakajan%203%F0%9F%87%B5%F0%9F%87%B1
