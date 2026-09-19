@@ -1,10 +1,6 @@
-vless://9bc7600f-49ee-453b-bdac-b8ca84fc3bcf@195.26.226.224:9818?security=none&encryption=none&headerType=none&type=tcp#Kakajan%201%F0%9F%87%B5%F0%9F%87%B1
-vless://9bc7600f-49ee-453b-bdac-b8ca84fc3bcf@108.156.8.77:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d1rldflyose1jy.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d1rldflyose1jy.cloudfront.net#Kakajan%202%F0%9F%87%B8%F0%9F%87%AA
-vless://9bc7600f-49ee-453b-bdac-b8ca84fc3bcf@212.80.221.180:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=usaa.vip100.cfd&fp=chrome&type=ws&allowInsecure=0&sni=usaa.vip100.cfd#Kakajan%203%F0%9F%87%BA%F0%9F%87%B8
-trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.150.32:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
-trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.150.32:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%2BFrance
-vless://9bc7600f-49ee-453b-bdac-b8ca84fc3bcf@195.26.226.224:9818?security=none&encryption=none&headerType=none&type=tcp#Kakajan%201%F0%9F%87%B5%F0%9F%87%B1
-vless://9bc7600f-49ee-453b-bdac-b8ca84fc3bcf@108.156.8.77:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=d1rldflyose1jy.cloudfront.net&fp=chrome&type=xhttp&allowInsecure=0&sni=d1rldflyose1jy.cloudfront.net#Kakajan%202%F0%9F%87%B8%F0%9F%87%AA
-vless://9bc7600f-49ee-453b-bdac-b8ca84fc3bcf@212.80.221.180:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=usaa.vip100.cfd&fp=chrome&type=ws&allowInsecure=0&sni=usaa.vip100.cfd#Kakajan%203%F0%9F%87%BA%F0%9F%87%B8
-trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.150.32:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
-trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.150.32:7003?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%2BFrance
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuU3JGMFN5SGllbklIR0l0T0tXUWpXbHM2MnBaQ0otSA%3D%3D@91.211.14.93:909#%F0%9F%87%A9%F0%9F%87%AAKakajan%201
+trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.150.18:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuU3JGMFN5SGllbklIR0l0T0tXUWpXbHM2MnBaQ0otSA%3D%3D@91.211.14.93:909#%F0%9F%87%A9%F0%9F%87%AAKakajan%201
+trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.150.18:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuU3JGMFN5SGllbklIR0l0T0tXUWpXbHM2MnBaQ0otSA%3D%3D@91.211.14.93:909#%F0%9F%87%A9%F0%9F%87%AAKakajan%201
+trojan://EQEQyEKiYun5TLxVQKFNpg@87.58.150.18:7002?security=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AEFinland
